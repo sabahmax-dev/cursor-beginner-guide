@@ -196,4 +196,4 @@ Avoid one mega-skill that does everything. Prefer:
 
 ---
 
-> **Next:** [03 — PDF orchestration example](./03-pdf-orchestration-example.md) — skill + three sub-agents for a large PDF digest · [05 — Hands-on guides](../05-guias-praticos/01-exercicio-ask-mode.md) — practice modes and flows on a real project
+> **Next:** [07 — Automation and loops](../07-automacao-e-loops/01-automation-and-loops-overview.md) — iterative loops, Cloud Agents, and Automations · [05 — Hands-on guides](../05-guias-praticos/01-exercicio-ask-mode.md) — practice modes and flows on a real project

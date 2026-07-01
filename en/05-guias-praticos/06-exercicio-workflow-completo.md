@@ -253,22 +253,10 @@ Use this template for future tasks:
 
 ---
 
-## Congratulations!
+## What you built in this exercise
 
-You completed all exercises. You now know how to:
+You ran the full **Research → Plan → Implement** flow on a real task. The next exercise adds **automation loops** — when the agent iterates until checks pass or a checklist is complete.
 
-- **Research** with Ask Mode before acting
-- **Plan** with Plan Mode before implementing
-- **Implement** with Agent Mode in a controlled way
-- **Use rules** for automatic consistency
-- **Create skills** to automate repetitive tasks
-- **Manage context** to keep answer quality high
+---
 
-### Next level
-
-- Explore existing project rules in `.cursor/rules/`
-- Read skills in `.cursor/skills/`
-- Create your own rules and skills for your workflow
-- Experiment and iterate — that is how you learn
-
-> _“Pick one tool and practice a lot. It is part art and part science — you need repetition to develop intuition about what to trust the model with and what to keep for yourself.”_
+> **Next:** [07 — Automation loops](./07-exercicio-automation-loops.md) — build and run a loop skill with guardrails

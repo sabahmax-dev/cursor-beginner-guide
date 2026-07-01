@@ -28,6 +28,14 @@ New material that extends Part 1. You will understand:
 - How to combine **skills**, the **main agent**, and **sub-agents** into predictable flows
 - When to use each piece and how to avoid wasting context
 
+### Part 3 — Automation and loops
+
+Material that extends Part 2. You will understand:
+
+- How to run **iterative loops** in the IDE until checks pass or a checklist is complete
+- When to use **Cloud Agents** and **Automations** for work that runs without you at the keyboard
+- How to define **exit conditions**, max iterations, and human checkpoints
+
 ---
 
 ## Guide structure
@@ -84,6 +92,7 @@ Hands-on exercises to apply what you learned. Each guide has real prompts you ca
 | [04-exercicio-regras.md](./05-guias-praticos/04-exercicio-regras.md)                       | Before and after rules — see the difference    |
 | [05-exercicio-skills.md](./05-guias-praticos/05-exercicio-skills.md)                       | Using skills to automate tasks                 |
 | [06-exercicio-workflow-completo.md](./05-guias-praticos/06-exercicio-workflow-completo.md) | From zero to PR — full workflow                |
+| [07-exercicio-automation-loops.md](./05-guias-praticos/07-exercicio-automation-loops.md)   | Build and run a loop skill with guardrails     |
 
 ### Part 2 — Agent orchestration
 
@@ -95,15 +104,25 @@ Skills, the main agent, and sub-agents work together. This part explains **when*
 | [02-orquestrando-na-pratica.md](./06-orquestracao-de-agentes/02-orquestrando-na-pratica.md)             | Step-by-step: design and test an orchestrated flow              |
 | [03-pdf-orchestration-example.md](./06-orquestracao-de-agentes/03-pdf-orchestration-example.md)       | Example: large PDF → topics, short & long summary via sub-agents |
 
+### Part 3 — Automation and loops
+
+Skills and orchestration get you predictable one-shot flows. This part covers **loops** — when the agent repeats until a measurable condition is true — plus **Cloud Agents** and **Automations** for work that runs in the background. **Read after Part 2 (06)**.
+
+| File                                                                                         | Content                                                         |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [01-automation-and-loops-overview.md](./07-automacao-e-loops/01-automation-and-loops-overview.md) | Concepts: local loops, loop skills, Cloud Agents, Automations   |
+| [02-automation-loops-in-practice.md](./07-automacao-e-loops/02-automation-loops-in-practice.md)   | Step-by-step: CI loop, review-and-ship, Cloud Agents, Automations |
+
 ---
 
 ## How to use this guide
 
 1. **Part 1** — follow **01 → 02 → 03 → 04** in order, then the **hands-on guides (05)** (or mix in exercises however you prefer).
 2. **Part 2** — after **04 — Skills**, read **06 — Agent orchestration**; then return to **05** if you have not finished the guides yet, or use Part 2 as reference when repeating exercises.
-3. **Do the exercises** — reading about AI does not replace practicing with AI
-4. **Try it in your project** — adapt the examples to your context
-5. **Come back when you need it** — use it as day-to-day reference
+3. **Part 3** — after **06 — Agent orchestration**, read **07 — Automation and loops**; finish with **exercise 07** in the hands-on guides when ready.
+4. **Do the exercises** — reading about AI does not replace practicing with AI
+5. **Try it in your project** — adapt the examples to your context
+6. **Come back when you need it** — use it as day-to-day reference
 
 ---
 

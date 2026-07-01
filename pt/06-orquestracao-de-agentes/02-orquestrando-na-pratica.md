@@ -196,4 +196,4 @@ Skills **pequenas e compostaveis** sao mais faceis de acionar na ordem certa pel
 
 ---
 
-> **Proximo:** [05 - Guias Praticos](../05-guias-praticos/01-exercicio-ask-mode.md) — pratique modos e fluxos no projeto
+> **Proximo:** [07 - Automacao e loops](../07-automacao-e-loops/01-o-que-sao-automacao-e-loops.md) — loops iterativos, Cloud Agents e Automacoes · [05 - Guias Praticos](../05-guias-praticos/01-exercicio-ask-mode.md) — pratique modos e fluxos no projeto

@@ -28,6 +28,14 @@ Material novo que complementa a Parte 1. Voce vai entender:
 - Como combinar **skill**, **agente principal** e **sub-agente** em fluxos previsiveis
 - Quando usar cada peca e como evitar desperdicio de contexto
 
+### Parte 3 — Automacao e loops
+
+Material que complementa a Parte 2. Voce vai entender:
+
+- Como rodar **loops iterativos** no IDE ate checks passarem ou um checklist ficar completo
+- Quando usar **Cloud Agents** e **Automacoes** para trabalho que roda sem voce no teclado
+- Como definir **condicoes de saida**, maximo de iteracoes e checkpoints humanos
+
 ---
 
 ## Estrutura do Guia
@@ -84,6 +92,7 @@ Exercicios hands-on para aplicar tudo que aprendeu. Cada guia tem prompts reais 
 | [04-exercicio-regras.md](./05-guias-praticos/04-exercicio-regras.md)                       | Antes e depois de regras — veja a diferenca |
 | [05-exercicio-skills.md](./05-guias-praticos/05-exercicio-skills.md)                       | Usando skills para automatizar tarefas      |
 | [06-exercicio-workflow-completo.md](./05-guias-praticos/06-exercicio-workflow-completo.md) | Do zero ao PR — fluxo completo              |
+| [07-exercicio-automacao-loops.md](./05-guias-praticos/07-exercicio-automacao-loops.md)   | Montar e rodar uma skill de loop com trilhos |
 
 ### Parte 2 — Orquestracao de agentes
 
@@ -94,15 +103,25 @@ Skills, o agente principal e sub-agentes se complementam. Esta parte explica **q
 | [01-o-que-e-orquestracao.md](./06-orquestracao-de-agentes/01-o-que-e-orquestracao.md)       | Conceito: skill, agente, sub-agente e papel de cada um           |
 | [02-orquestrando-na-pratica.md](./06-orquestracao-de-agentes/02-orquestrando-na-pratica.md) | Passo a passo para desenhar e testar um fluxo orquestrado         |
 
+### Parte 3 — Automacao e loops
+
+Skills e orquestracao cobrem fluxos one-shot previsiveis. Esta parte cobre **loops** — quando o agente repete ate uma condicao mensuravel ser verdadeira — mais **Cloud Agents** e **Automacoes** para trabalho em segundo plano. **Leia apos a Parte 2 (06)**.
+
+| Arquivo                                                                                    | Conteudo                                                         |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [01-o-que-sao-automacao-e-loops.md](./07-automacao-e-loops/01-o-que-sao-automacao-e-loops.md) | Conceitos: loops locais, skills de loop, Cloud Agents, Automacoes |
+| [02-automacao-na-pratica.md](./07-automacao-e-loops/02-automacao-na-pratica.md)             | Passo a passo: loop de CI, review-and-ship, Cloud Agents, Automacoes |
+
 ---
 
 ## Como usar este guia
 
 1. **Parte 1** — siga **01 → 02 → 03 → 04** na ordem; em seguida os **Guias Praticos (05)** (ou intercale exercicios conforme preferir).
 2. **Parte 2** — apos **04 - Skills**, leia **06 - Orquestracao**; depois volte aos **Guias Praticos (05)** se ainda nao os tiver feito, ou use a Parte 2 como referencia ao repetir exercicios.
-3. **Faca os exercicios** — ler sobre IA nao substitui praticar com IA
-4. **Experimente no seu projeto** — adapte os exemplos para o seu contexto
-5. **Volte quando precisar** — use como referencia no dia a dia
+3. **Parte 3** — apos **06 - Orquestracao**, leia **07 - Automacao e loops**; finalize com o **exercicio 07** nos guias praticos quando estiver pronto.
+4. **Faca os exercicios** — ler sobre IA nao substitui praticar com IA
+5. **Experimente no seu projeto** — adapte os exemplos para o seu contexto
+6. **Volte quando precisar** — use como referencia no dia a dia
 
 ---
 

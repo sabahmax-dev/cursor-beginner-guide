@@ -254,22 +254,10 @@ Use este template para suas proximas tarefas:
 
 ---
 
-## Parabens!
+## O que voce montou neste exercicio
 
-Voce completou todos os exercicios. Agora voce sabe:
+Voce rodou o fluxo completo **Pesquisar → Planejar → Implementar** em uma tarefa real. O proximo exercicio adiciona **loops de automacao** — quando o agente itera ate checks passarem ou um checklist ficar completo.
 
-- **Pesquisar** com Ask Mode antes de agir
-- **Planejar** com Plan Mode antes de implementar
-- **Implementar** com Agent Mode de forma controlada
-- **Usar regras** para garantir consistencia automatica
-- **Criar skills** para automatizar tarefas repetitivas
-- **Gerenciar contexto** para manter a qualidade das respostas
+---
 
-### Proximo nivel
-
-- Explore as regras existentes do projeto em `.cursor/rules/`
-- Leia as skills em `.cursor/skills/`
-- Crie suas proprias regras e skills para o seu workflow
-- Experimente e itere — e assim que se aprende
-
-> _"Escolha uma ferramenta, pratique muito. E parte arte e parte ciencia — voce precisa de muita repeticao para desenvolver a intuicao do que confiar ao modelo e do que manter para voce."_
+> **Proximo:** [07 - Automacao e loops](./07-exercicio-automacao-loops.md) — montar e rodar uma skill de loop com trilhos
