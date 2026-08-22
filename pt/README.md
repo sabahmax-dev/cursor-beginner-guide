@@ -27,6 +27,7 @@ Material novo que complementa a Parte 1. Voce vai entender:
 
 - Como combinar **skill**, **agente principal** e **sub-agente** em fluxos previsiveis
 - Quando usar cada peca e como evitar desperdicio de contexto
+- Como o **`/poteto-mode`** (plugin pstack) empacota essa orquestracao para voce reusar como metodo
 
 ---
 
@@ -93,6 +94,7 @@ Skills, o agente principal e sub-agentes se complementam. Esta parte explica **q
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | [01-o-que-e-orquestracao.md](./06-orquestracao-de-agentes/01-o-que-e-orquestracao.md)       | Conceito: skill, agente, sub-agente e papel de cada um           |
 | [02-orquestrando-na-pratica.md](./06-orquestracao-de-agentes/02-orquestrando-na-pratica.md) | Passo a passo para desenhar e testar um fluxo orquestrado         |
+| [03-poteto-mode.md](./06-orquestracao-de-agentes/03-poteto-mode.md)                         | `/poteto-mode` (pstack): playbooks, `/how`, `/why`, quando usar   |
 
 ---
 

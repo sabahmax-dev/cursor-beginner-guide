@@ -196,4 +196,4 @@ Skills **pequenas e compostaveis** sao mais faceis de acionar na ordem certa pel
 
 ---
 
-> **Proximo:** [05 - Guias Praticos](../05-guias-praticos/01-exercicio-ask-mode.md) — pratique modos e fluxos no projeto
+> **Proximo:** [03 — `/poteto-mode`](./03-poteto-mode.md) — plugin de orquestracao pronta · [05 - Guias Praticos](../05-guias-praticos/01-exercicio-ask-mode.md) — pratique modos e fluxos no projeto

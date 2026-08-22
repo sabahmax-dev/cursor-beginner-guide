@@ -27,6 +27,7 @@ New material that extends Part 1. You will understand:
 
 - How to combine **skills**, the **main agent**, and **sub-agents** into predictable flows
 - When to use each piece and how to avoid wasting context
+- How **`/poteto-mode`** (pstack plugin) packages that orchestration so you can reuse it as a method
 
 ---
 
@@ -94,6 +95,7 @@ Skills, the main agent, and sub-agents work together. This part explains **when*
 | [01-agent-orchestration-overview.md](./06-orquestracao-de-agentes/01-agent-orchestration-overview.md) | Concepts: skill, agent, sub-agent, and how they fit             |
 | [02-orquestrando-na-pratica.md](./06-orquestracao-de-agentes/02-orquestrando-na-pratica.md)             | Step-by-step: design and test an orchestrated flow              |
 | [03-pdf-orchestration-example.md](./06-orquestracao-de-agentes/03-pdf-orchestration-example.md)       | Example: large PDF → topics, short & long summary via sub-agents |
+| [04-poteto-mode.md](./06-orquestracao-de-agentes/04-poteto-mode.md)                                     | `/poteto-mode` (pstack): playbooks, `/how`, `/why`, when to use |
 
 ---
 

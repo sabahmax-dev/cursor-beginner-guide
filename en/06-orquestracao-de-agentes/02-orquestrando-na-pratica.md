@@ -196,4 +196,4 @@ Avoid one mega-skill that does everything. Prefer:
 
 ---
 
-> **Next:** [03 — PDF orchestration example](./03-pdf-orchestration-example.md) — skill + three sub-agents for a large PDF digest · [05 — Hands-on guides](../05-guias-praticos/01-exercicio-ask-mode.md) — practice modes and flows on a real project
+> **Next:** [03 — PDF orchestration example](./03-pdf-orchestration-example.md) — skill + three sub-agents for a large PDF digest · [04 — `/poteto-mode`](./04-poteto-mode.md) — a packaged orchestration plugin · [05 — Hands-on guides](../05-guias-praticos/01-exercicio-ask-mode.md) — practice modes and flows on a real project

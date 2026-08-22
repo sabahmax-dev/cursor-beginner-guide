@@ -236,4 +236,4 @@ If Step 1 is run on **many chunks**, add a small **`large-pdf-merge-topics`** su
 
 ---
 
-> **See also:** [01 — Overview](./01-agent-orchestration-overview.md) · [02 — Orchestrating in practice](./02-orquestrando-na-pratica.md)
+> **See also:** [01 — Overview](./01-agent-orchestration-overview.md) · [02 — Orchestrating in practice](./02-orquestrando-na-pratica.md) · [04 — `/poteto-mode`](./04-poteto-mode.md)
